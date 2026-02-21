@@ -46,8 +46,7 @@ The Micro Mouse robot integrates **mechanical design**, **embedded systems**, an
 - `Wire.h` – I2C communication  
 - `VL53L4CD.h` – Time-of-Flight sensor library  
 - `Encoder.h` – Wheel encoder handling  
-- `Adafruit_MPU6050.h` – IMU sensor library  
-- `Adafruit_Sensor.h` – Unified sensor interface  
+- `DFRobot_I2C_Multiplexer.h` – DFRobot I2C multiplexer library   
 
 ---
 
